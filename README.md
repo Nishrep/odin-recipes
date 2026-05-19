@@ -1,0 +1,1 @@
+In this project you will create a simple recipe website.
